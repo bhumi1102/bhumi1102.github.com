@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "What is this all about?"
-description: ""
 category: 
 tags: []
 ---
