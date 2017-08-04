@@ -28,6 +28,9 @@ author :
 #
 production_url : http://bhumi1102.github.com
 
+# jekyll Github Pages supported theme
+theme: jekyll-theme-architect
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
