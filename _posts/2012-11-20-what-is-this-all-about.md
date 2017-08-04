@@ -16,4 +16,4 @@ Curernt list of learnings:
 * HTML5 and CSS3
 * Javascript and JQuery
 * Backbone.js
-* Sass and Coffeescript 
+* CSS/Sass and Coffeescript 
